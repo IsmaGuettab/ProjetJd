@@ -1,0 +1,61 @@
+#include <stdio.h>
+
+
+
+int   bras_gauche()
+{
+printf("j'ai mon bras gauche")
+}
+
+int   bras_droit()
+{
+printf("j'ai mon bras droit")
+}
+
+int   pied_gauche()
+{
+printf("j'ai mon pied gauche")
+}
+
+int   pied_droit()
+{
+printf("j'ai mon pied droite")
+}
+
+int   oeil_gauche()
+{
+printf("j'ai mon oeil gauche")
+}
+
+int   oeil_droit()
+{
+printf("j'ai mon oeil_droit")
+}
+
+int   mon_nez()
+{
+printf("j'ai mon bras gauche")
+}
+
+int   oreille_gauche()
+{
+printf("j'ai mon oreille gauche")
+}
+
+int   oreille droite()
+{
+printf("j'ai mon bras gauche")
+}
+int   main()
+{
+
+pied_droit();
+
+#ICI METTEZ L'INVENTAIRE DE VOS MEMBRES #
+
+
+}
+
+
+
+

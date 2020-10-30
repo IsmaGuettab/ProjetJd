@@ -1,0 +1,40 @@
+#include <stdio.h>
+#include <stdbool.h>
+
+int main() {
+ bool papa=REMPLACEZ_CE_TEXTE_PAR_CE_QU_IL_FAUT; 
+ bool maman=REMPLACEZ_CE_TEXTE_PAR_CE_QU_IL_FAUT  ;
+ bool frere=REMPLACEZ_CE_TEXTE_PAR_CE_QU_IL_FAUT ;
+ bool soeur=REMPLACEZ_CE_TEXTE_PAR_CE_QU_IL_FAUT;
+ bool oncle=REMPLACEZ_CE_TEXTE_PAR_CE_QU_IL_FAUT;
+ bool grand-pere=REMPLACEZ_CE_TEXTE_PAR_CE_QU_IL_FAUT ;
+ bool grand-mere=REMPLACEZ_CE_TEXTE_PAR_CE_QU_IL_FAUT ;
+ bool fils= REMPLACEZ_CE_TEXTE_PAR_CE_QU_IL_FAUT;
+
+
+  if(papa == REMPLACEZ_CE_TEXTE_PAR_CE_QU_IL_FAUT){
+    printf("oui j'ai un père");
+  }
+  else if (maman == REMPLACEZ_CE_TEXTE_PAR_CE_QU_IL_FAUT) {
+    printf("Oui j'ai une maman !");
+  }
+  else if (frere == REMPLACEZ_CE_TEXTE_PAR_CE_QU_IL_FAUT) {
+    printf("j'ai bel et bien un frère");
+  }
+  else if (soeur == REMPLACEZ_CE_TEXTE_PAR_CE_QU_IL_FAUT) {
+    printf("j'ai une soeur, mais bon :( ");
+  }
+  else if (oncle == REMPLACEZ_CE_TEXTE_PAR_CE_QU_IL_FAUT) {
+    printf("J'ai un oncle à l'armée en en effet");
+  }
+  else if (grand-pere == REMPLACEZ_CE_TEXTE_PAR_CE_QU_IL_FAUT) {
+    printf("J'ai aussi un grand-père");
+  }
+  else if (grand-mere == REMPLACEZ_CE_TEXTE_PAR_CE_QU_IL_FAUT) {
+    printf("j'ai aussi une grand-mère");
+  }
+  else if (fils == REMPLACEZ_CE_TEXTE_PAR_CE_QU_IL_FAUT) {
+    printf("Oui j'ai une maman !");
+  }
+
+}
